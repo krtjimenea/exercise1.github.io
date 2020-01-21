@@ -10,6 +10,8 @@ h1 {
 	font-size: 25px;
 	font-family: "Lucida Console", Monospace;
 	font-style: bold;
+	border-style: solid;
+	border-color: black;
 }
 
 h3 {
